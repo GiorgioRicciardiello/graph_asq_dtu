@@ -1,0 +1,10 @@
+# local package
+-e .
+
+# external requirements
+
+pandas~=1.4.3
+numpy~=1.22.4
+matplotlib~=3.5.3
+tqdm~=4.64.0
+setuptools~=63.4.1
